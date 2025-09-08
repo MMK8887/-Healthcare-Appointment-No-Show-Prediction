@@ -100,34 +100,10 @@ Real-time risk scoring (waiting time, location, weekday).
 
 Automated interventions for high-risk cases.
 
-📈 Expected Outcomes
+📈  Outcomes
 
 25–30% reduction in no-show rate.
 
 $15,000–20,000 annual savings.
 
-Better patient satisfaction & staff utilization.
 
-📊 Dashboard Requirements
-
-Key KPIs:
-
-Real-time no-show rate (daily/weekly/monthly)
-
-Avg. waiting time trends
-
-Neighborhood risk heat map
-
-Cost optimization tracker
-
-Intervention effectiveness
-
-Interactive Features:
-
-Threshold adjustment for cost simulations
-
-Geographical filters
-
-Temporal drill-down analysis
-
-Patient segmentation clusters
