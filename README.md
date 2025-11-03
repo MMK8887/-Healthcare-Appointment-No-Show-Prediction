@@ -76,13 +76,7 @@ Day-of-Week Resource Planning
 
 More staff & reminder calls for Mondays/Fridays.
 
-Explore Saturday alternatives.
-
-Targeted Neighborhood Interventions
-
-Focus on SANTOS DUMONT, SANTA CECÍLIA, ITARARÉ.
-
-Use double confirmations & community health workers.
+Targeted Neighborhood Interventions-Focus on SANTOS DUMONT, SANTA CECÍLIA, ITARARÉ.
 
 Enhanced Reminder Strategy
 
@@ -92,18 +86,5 @@ Initial reminder at booking, follow-up 2–3 days prior.
 
 Tailored messages by neighborhood risk.
 
-Predictive Model Deployment
-
-Use 0.2 threshold for cost optimization.
-
-Real-time risk scoring (waiting time, location, weekday).
-
-Automated interventions for high-risk cases.
-
-📈  Outcomes
-
-25–30% reduction in no-show rate.
-
-$15,000–20,000 annual savings.
 
 
